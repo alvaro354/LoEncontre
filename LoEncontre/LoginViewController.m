@@ -440,6 +440,8 @@
                              NSArray *returned = [parser objectWithString:responseString error:&error];
                             // NSLog(@"%@",error);
                              
+                             
+                             
                             // NSLog(@"%@ Data",encryptedData );
                             // NSLog(@"%@ Array",newStr );
                              NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
