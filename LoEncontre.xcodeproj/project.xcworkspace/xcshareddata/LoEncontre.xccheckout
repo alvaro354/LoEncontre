@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6FF88A88-6CDD-476D-A0C8-BB608952C62E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoEncontre</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5F753253-45BB-4B25-A915-420FDA69D0FF</key>
+		<string>https://github.com/alvaro354/LoEncontre.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoEncontre.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5F753253-45BB-4B25-A915-420FDA69D0FF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alvaro354/LoEncontre.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5F753253-45BB-4B25-A915-420FDA69D0FF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F753253-45BB-4B25-A915-420FDA69D0FF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LoEncontre</string>
+		</dict>
+	</array>
+</dict>
+</plist>
