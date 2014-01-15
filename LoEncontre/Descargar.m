@@ -274,6 +274,8 @@
                  
              }
          
+         
+         
          //Avisas que ya ha acabado
          dispatch_group_leave(group);
    
@@ -286,6 +288,8 @@
 }
 
 -(void) guardarDatos:(NSMutableArray*)arrayP grupo:(NSString*)grupoP{
+    
+    //Prueba Git
     
     NSData *datos = [NSKeyedArchiver archivedDataWithRootObject:arrayP];
     [[NSUserDefaults standardUserDefaults] setObject:datos forKey:grupoP];
